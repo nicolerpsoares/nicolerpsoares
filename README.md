@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá! Me chamo Nicole 👋
 
-<!--
-**nicolerpsoares/nicolerpsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Sistemas de Informações na Unisinos. Atualmente, estou focada em me tornar uma dev. Front-End e apaixonada por criar interfaces atraentes e funcionais para a web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <a href="https://github.com/felipefreitassilvalearning">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolerpsoares&layout=compact&langs_count=7&theme=dracula" alt="" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolerpsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="" /></a>
+  </div>
+
+## Objetivo do Perfil no GitHub
+
+O objetivo deste perfil no GitHub é apresentar meus aprendizados e projetos.
+
+## Interesses
+
+- 🌐 Front-end e Back-end Development
+- 🎨 UI/UX Design
+
+## Contato
+- 📧 Email: nicolerpsoares@gmail.com
+- 💼 LinkedIn: [Nicole Soares](https://www.linkedin.com/in/nicolerafaela/)
+
+## Outras informações
+Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração, compartilhar ideias ou apenas para trocar experiências na área de design e desenvolvimento web.
