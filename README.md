@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informações na Unisinos. Atualmente, estou focada em me tornar uma dev. Front-End e apaixonada por criar interfaces atraentes e funcionais para a web.
+Sou estudante de Sistemas de Informações na Unisinos. Atualmente, estou focada em me tornar uma Dev. Front-End e apaixonada por criar interfaces atraentes e funcionais para a web.
 
 <div>
  <a href="https://github.com/felipefreitassilvalearning">
